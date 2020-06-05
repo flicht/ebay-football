@@ -10,12 +10,6 @@ from loguru import logger
 
 # player_id = '402285222087'
 url = f'https://www.ebay.co.uk/itm/'
-
-# res = requests.get(url)
-# soup = BeautifulSoup(res.text, features="html.parser")
-# sold = soup.find_all("a", class_='vi-txt-underline')
-# # print(soup.prettify())
-# print(sold[0].text)
 n = 0
 
 while n < 100:
