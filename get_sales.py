@@ -8,7 +8,6 @@ from loguru import logger
 
 
 
-# player_id = '402285222087'
 url = f'https://www.ebay.co.uk/itm/'
 n = 0
 
